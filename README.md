@@ -1,4 +1,4 @@
 # Python-login-system
 #Install the modules,
-Pip install flask
+Pip install flask,
 pip install flask-mysqldb
